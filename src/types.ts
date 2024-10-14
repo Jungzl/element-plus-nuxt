@@ -156,6 +156,7 @@ declare module '@nuxt/schema' {
     elementPlus?: Partial<Options>
   }
   interface NuxtOptions {
+    // @ts-ignore
     elementPlus?: Partial<Options>
   }
 }
