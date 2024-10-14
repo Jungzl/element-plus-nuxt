@@ -55,7 +55,7 @@
     "element-plus": "link:..\\element-plus\\dist\\element-plus",
     "eslint": "^8.57.0",
     "nuxi": "^3.14.0",
-    "nuxt": "^3.12.4",
+    "nuxt": "^3.13.2",
     "typescript": "^5.6.3",
     "vue": "^3.5.12"
   },
